@@ -17,4 +17,6 @@ elif driving == '沒有':
 	else:
 		print('很好,再過幾年就可以考駕照了')
 
+print("Hello")
+
 
